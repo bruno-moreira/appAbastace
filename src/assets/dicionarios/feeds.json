@@ -1,0 +1,154 @@
+{
+    "feeds": [
+        {
+            "_id": 1,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "_id": 1,
+                "name": "Posto Belo Jardim",
+                "avatar": "Belo Jardim.jpg"
+            },
+            "likes": 0,
+            "gasolina": {
+                "name": "Gasolina",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 5.85
+            },
+            "etanol": {
+                "name": "Etanol",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 4.50
+            },
+            "diesel": {
+                "name": "Diesel",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 3.80
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "_id": 2,
+                "name": "Posto de Combustivel",
+                "avatar": "Posto.jpg"
+            },
+            "likes": 0,
+            "gasolina": {
+                "name": "Gasolina",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 5.85                
+            },
+            "etanol": {
+                "name": "Etanol",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 4.78
+            },
+            "diesel": {
+                "name": "Diesel",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 2.99
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "_id": 3,
+                "name": "Posto Brasil - Vit da Conquista",
+                "avatar": "Posto Brasil.jpg"
+            },
+            "likes": 0,
+            "gasolina": {
+                "name": "Gasolina",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 5.99
+            },
+            "etanol": {
+                "name": "Etanol",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 5.01
+            },
+            "diesel": {
+                "name": "Diesel",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 3.99
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2019-08-01T12:00-0500",
+            "company": {
+                "_id": 4,
+                "name": "Auto Posto São Jorge",
+                "avatar": "Auto Posto São Jorge.jpg"
+            },
+            "likes": 0,
+            "gasolina": {
+                "name": "Gasolina",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 4.55
+            },
+            "etanol": {
+                "name": "Etanol",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 3.80
+            },
+            "diesel": {
+                "name": "Diesel",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 2.89
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2019-07-01T12:00-0500",
+            "company": {
+                "_id": 5,
+                "name": "Posto Anel Viário",
+                "avatar": "Posto Anel Viário.jpg"
+            },
+            "likes": 0,
+            "gasolina": {
+                "name": "Gasolina",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 6.79
+            },
+            "etanol": {
+                "name": "Etanol",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 5.89
+            },
+            "diesel": {
+                "name": "Diesel",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 4.87
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2019-06-01T12:00-0500",
+            "company": {
+                "_id": 6,
+                "name": "Posto São Jorge III",
+                "avatar": "Posto São Jorge III.jpg"
+            },
+            "likes": 0,
+            "gasolina": {
+                "name": "Gasolina",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 4.10
+            },
+            "etanol": {
+                "name": "Etanol",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 3.76
+            },
+            "diesel": {
+                "name": "Diesel",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 2.99
+            }
+        }
+    ]
+}

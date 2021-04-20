@@ -1,0 +1,34 @@
+{
+    "empresas": [
+        {
+            "_id": 1, 
+            "name": "Posto Belo Jardim",
+            "avatar": "Belo Jardim.jpeg"
+        },
+        {
+            "_id": 2, 
+            "name": "Posto de Combustivel",
+            "avatar": "Posto.jpeg"
+        },
+        {
+            "_id": 3, 
+            "name": "Posto Brasil - Vit da Conquista",
+            "avatar": "Posto Brasil.jpeg"
+    },
+        {
+            "_id": 4, 
+            "name": "Auto Posto São Jorge",
+            "avatar": "Auto Posto.jpeg"
+        },
+        {
+            "_id": 5, 
+            "name": "Posto Anel Viário",
+            "avatar": "Posto Anel Viário.jpeg"
+    },
+        {
+            "_id": 6, 
+            "name": "Posto São Jorge III",
+            "avatar": "Posto São Jorge III.jpeg"
+        }        
+    ]
+}
